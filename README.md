@@ -1,2 +1,2 @@
 # hello-world
-to lern
+Hello I'm a student that is trying to lern github
